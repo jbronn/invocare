@@ -10,7 +10,7 @@ setup(name='invocare',
       url='https://github.com/jbronn/invocare',
       download_url='https://pypi.python.org/pypi/invocare/',
       install_requires=[
-        'invoke>=0.12.2,<1.0.0',
+        'invoke>=0.16.3,<1.0.0',
       ],
       packages=['invocare'],
       zip_safe=False,
